@@ -1,1 +1,1 @@
-city : Deli
+city : Banglore
